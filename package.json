@@ -1,0 +1,20 @@
+{
+  "name": "dev-pre-interview-jefferson_subaan",
+  "version": "1.0.0",
+  "description": "Dev Pre-Interview Exam - Jefferson Subaan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijepoy083/Dev-Pre-Interview-Exam---Jefferson-Subaan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijepoy083/Dev-Pre-Interview-Exam---Jefferson-Subaan/issues"
+  },
+  "homepage": "https://github.com/ijepoy083/Dev-Pre-Interview-Exam---Jefferson-Subaan#readme"
+}
