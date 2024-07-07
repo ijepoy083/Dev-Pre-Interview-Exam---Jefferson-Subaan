@@ -16,6 +16,9 @@ Implement a RESTful API application demonstrating CRUD operations using any prog
 ### Details
 The code/pseudo code and explanation for Task 1 are provided in the specified file. Unit tests follow the AAA (Act-Arrange-Assert) pattern. TypeScript usage is encouraged.
 
+### Postman Collection
+- A Postman collection file (`Exam.postman_collection.json`) is included for testing the Task 1 API endpoints.
+
 ## Task 2: Phone Button Letter Combinations
 ### Overview
 Implement a JavaScript/TypeScript function to generate all possible letter combinations that a phone button from 2-9 represents. Display all combinations using `console.log()`.
