@@ -12,6 +12,8 @@ Implement a RESTful API application demonstrating CRUD operations using any prog
   - To run: `node index_exam_1.js`
 - **Unit Testing:** `/Dev-Pre-Interview-Jefferson_Subaan/test/`
   - To test: `npm test`
+### Note
+I am using temporary storage, I am not using a database connection.
 
 ### Details
 The code/pseudo code and explanation for Task 1 are provided in the specified file. Unit tests follow the AAA (Act-Arrange-Assert) pattern. TypeScript usage is encouraged.
