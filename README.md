@@ -18,7 +18,7 @@ The code/pseudo code and explanation for Task 1 are provided in the specified fi
 
 ## Task 2: Phone Button Letter Combinations
 ### Overview
-Implement a JavaScript/TypeScript function to generate all possible letter combinations that a phone button from 2-9 represents.
+Implement a JavaScript/TypeScript function to generate all possible letter combinations that a phone button from 2-9 represents. Display all combinations using `console.log`.
 
 ### File Locations
 - **Solution:** `/Dev-Pre-Interview-Jefferson_Subaan/index_exam_2.js`
@@ -35,7 +35,8 @@ Implement a JavaScript/TypeScript function to generate all possible letter combi
   - **Input:** "2"
   - **Output:** ["a", "b", "c"]
 
-Feel free to adjust paths or details as needed to fit your environment.
+## Requirements
+- Node.js
 
 ## Getting Started
 1. Ensure Node.js is installed.
