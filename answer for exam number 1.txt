@@ -1,0 +1,17 @@
+a. Referencing to the code/pseudo code that you created for item #1, explain
+why/how you arrived at the logic/approach that you used.
+
+Answer:
+First i make it simple i just temporary storage for my restapi, i did not connect to a database.
+and i just assume to a simple create, retrieve, update and delete of phone numbers, i did not make it complicated,
+for the logic, i just use straight forward getting and selecting data from an array, and setting it in the json object, 
+or puttin it in an array of object, i just use chat GPT to code it fast.
+
+
+b. In relation to item #1, using any programming language or a pseudo code,
+create a full scope unit test with AAA(Act-Arrange-Assert) pattern. (using
+typescript is a big plus)
+
+Answer:
+i am using nodejs assert
+\Dev-Pre-Interview-Jefferson_Subaan\test\index_exam_1.test.js
